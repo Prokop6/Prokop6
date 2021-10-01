@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Prokop6
 - 👀 I’m interested in JS Fullstack
-- 🌱 I’m currently learning Node
-- <!---
+- 🌱 I’m currently learning TypeScript
+<!---
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 --->
+- 📫 You can reach me by e-mail: mr.prokop.6+dev[at]gmail.com
 
 <!---
 Prokop6/Prokop6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
