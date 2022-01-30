@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prokop6
-- 👀 I’m interested in JS Fullstack
+- 👀 I’m interested in TS Fullstack
 - 🌱 I’m currently learning TypeScript
 <!---
 - 💞️ I’m looking to collaborate on ...
