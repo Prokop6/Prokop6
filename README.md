@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prokop6
-- 👀 I’m interested in TS Fullstack
+- 👀 I’m interested in webdev
 - 🌱 I’m currently learning Golang
 <!---
 - 💞️ I’m looking to collaborate on ...
