@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Prokop6
-- 👀 I’m interested in webdev
-- 🌱 I’m currently learning Golang
+- 👋 Hi, I’m Marcin, but call me Prokop :)
+- 👀 I’m interested in many topics - there is to much fun things to choose from...
+- 🌱 I’m currently learning Golang.
 <!---
 - 💞️ I’m looking to collaborate on ...
 --->
